@@ -58,5 +58,5 @@ print("low_demand:",low_demand)
 print("moderate_demand:",moderate_demand)
 print("high_demand:",high_demand)
 print("invalid_requests:",invalid_requests)
-
-
+print("Total Valid Requests:",vcount)
+print("Removed Entries:",removecount)
